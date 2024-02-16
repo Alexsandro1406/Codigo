@@ -1,0 +1,18 @@
+body {
+    background-color: #1E1E1E;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.botoes {
+    display: flex;
+    padding: 1rem;
+}
